@@ -7,7 +7,7 @@
 * [Python v.3.10](https://www.python.org/downloads/release/python-3107/)
 * [Git version control system](https://git-scm.com/downloads)
 * [GitHub](https://github.com/login)
-* [Google Authentificator](https//play.google.com/store/apps/details?id=com.google.android.apps.authentificator2)
+* [Google Authentificator](https//play.google.com/store/apps/details?id=com.google.android.apps.authentificator2) - Установите на Ваш мобильный телефон.
 
 ## Important Notes
 
